@@ -1,0 +1,17 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Tried to make a complete Youtube app backend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Krish Mukeshbhai Solanki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
